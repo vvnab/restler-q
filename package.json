@@ -1,6 +1,6 @@
 {
   "name": "restler-q",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Q Wrapper for Restler",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/troupe/restler-q"
+    "url": "https://github.com/vvnab/restler-q"
   },
   "keywords": [
     "q",
@@ -16,10 +16,10 @@
     "restful",
     "restler"
   ],
-  "author": "Andrew Newdigate",
+  "author": "vvnab",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/troupe/restler-q/issues"
+    "url": "https://github.com/vvnab/restler-q/issues"
   },
   "dependencies": {
     "q": "^1.0.0",
