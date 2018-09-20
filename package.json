@@ -22,7 +22,7 @@
     "url": "https://github.com/vvnab/restler-q/issues"
   },
   "dependencies": {
-    "q": "^3.0.0",
+    "q": "^1.0.0",
     "restler": "git+https://github.com/vvnab/restler.git"
   },
   "devDependencies": {
